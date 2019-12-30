@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684489159167",
+    "firebase_url": "https://fcm-application-754ca.firebaseio.com",
+    "project_id": "fcm-application-754ca",
+    "storage_bucket": "fcm-application-754ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684489159167:android:0a3cdc68f7f4043ab077ca",
+        "android_client_info": {
+          "package_name": "com.yehonatan.fcmapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684489159167-cdibqppkpagpqaucv3n35gdg5qauh9mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yehonatan.fcmapplication",
+            "certificate_hash": "5820d51ab738957586e5a9a0471c88f366423b11"
+          }
+        },
+        {
+          "client_id": "684489159167-sfd9bj1ii1tpn7fu8elertnmg00aukjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDBE_2klUn2bGAzLXV8ZdzNm9Zwhp97g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684489159167-sfd9bj1ii1tpn7fu8elertnmg00aukjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
